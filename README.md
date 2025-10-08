@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-```python
+
 class AIEngineer:
     def __init__(self):
         self.name = "Abdelrahman Nasser"
@@ -38,7 +38,7 @@ class AIEngineer:
     
     def philosophy(self):
         return "AI is not just technology — it's a new way to understand intelligence itself"
-```
+
 
 <div align="center">
 
