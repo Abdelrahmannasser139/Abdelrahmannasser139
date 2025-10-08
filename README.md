@@ -15,30 +15,23 @@
 
 ## 🚀 About Me
 
-<pre>
-class AIEngineer:
-    def __init__(self):
-        self.name = "Abdelrahman Nasser"
-        self.role = "AI Developer & Data Scientist"
-        self.location = "Cairo, Egypt 🇪🇬"
-        self.focus_areas = [
-            "Large Language Models (LLMs)",
-            "Retrieval-Augmented Generation (RAG)",
-            "Multi-Agent AI Systems",
-            "Reinforcement Learning",
-            "AI-driven Education Systems"
-        ]
-        self.achievements = {
-            "🏆 UGRF": "1st Place - IoT Smart Parking",
-            "🥉 Samsung Hackathon": "3rd Place - AI Blood Donation Platform"
-        }
-    
-    def current_mission(self):
-        return "Bridging cutting-edge AI research with real-world applications"
-    
-    def philosophy(self):
-        return "AI is not just technology — it's a new way to understand intelligence itself"
-</pre>
+💻 **class AIEngineer:**  
+&nbsp;&nbsp;&nbsp;&nbsp;**name:** _"Abdelrahman Nasser"_  
+&nbsp;&nbsp;&nbsp;&nbsp;**role:** _"AI Developer & Data Scientist"_  
+&nbsp;&nbsp;&nbsp;&nbsp;**location:** _"Cairo, Egypt 🇪🇬"_  
+&nbsp;&nbsp;&nbsp;&nbsp;**focus areas:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Large Language Models (LLMs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Retrieval-Augmented Generation (RAG)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Multi-Agent AI Systems  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Reinforcement Learning  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• AI-driven Education Systems  
+
+🏆 **Achievements:**  
+&nbsp;&nbsp;&nbsp;&nbsp;• 1st Place – UGRF (IoT Smart Parking)  
+&nbsp;&nbsp;&nbsp;&nbsp;• 3rd Place – Samsung Hackathon (AI Blood Donation Platform)  
+
+💡 **Mission:** Bridging cutting-edge AI research with real-world applications  
+🧠 **Philosophy:** “AI is not just technology — it’s a new way to understand intelligence itself.”
 
 <div align="center">
 
