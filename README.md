@@ -11,7 +11,6 @@
 - 🧩 Experienced with **Machine Learning**, **Deep Learning**, and **Natural Language Processing**  
 - 🌍 Building AI projects that connect research and real-world applications  
 - 🏆 1st Place – UGRF (IoT Smart Parking) | 🥉 3rd Place – Samsung Hackathon (AI Blood Donation Platform)  
-- 🌱 Currently working on **AI Trip Planner (Egypt)** and **Educational Multi-Agent Systems**
 
 ---
 
@@ -49,7 +48,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-nasser139)  
 - 🌐 [Portfolio](https://abdelrahmannasser139.github.io/portfolio/)  
-- 📧 **abdelrahman.nasser@email.com**
+- 📧 **abdelrahmannasser139@gmail.com**
 
 ---
 
