@@ -15,49 +15,41 @@
 
 ## 🚀 About Me
 
-💻 **class AIEngineer:**  
-&nbsp;&nbsp;&nbsp;&nbsp;**name:** _"Abdelrahman Nasser"_  
-&nbsp;&nbsp;&nbsp;&nbsp;**role:** _"AI Developer & Data Scientist"_  
-&nbsp;&nbsp;&nbsp;&nbsp;**location:** _"Cairo, Egypt 🇪🇬"_  
-&nbsp;&nbsp;&nbsp;&nbsp;**focus areas:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Large Language Models (LLMs)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Retrieval-Augmented Generation (RAG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Multi-Agent AI Systems  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Reinforcement Learning  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• AI-driven Education Systems  
-
-🏆 **Achievements:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• 1st Place – UGRF (IoT Smart Parking)  
-&nbsp;&nbsp;&nbsp;&nbsp;• 3rd Place – Samsung Hackathon (AI Blood Donation Platform)  
-
-💡 **Mission:** Bridging cutting-edge AI research with real-world applications  
-🧠 **Philosophy:** “AI is not just technology — it’s a new way to understand intelligence itself.”
-
-<div align="center">
-
-### 🎯 Core Expertise
-
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="50"/>
-<br><b>Machine Learning</b>
-<br><sub>Deep Learning, NLP, Computer Vision</sub>
+<td width="50%">
+
+### 👨‍💻 Who I Am
+**Name:** Abdelrahman Nasser  
+**Role:** AI Developer & Data Scientist  
+**Location:** Cairo, Egypt 🇪🇬
+
+### 🎯 Focus Areas
+- 🤖 **Large Language Models (LLMs)**
+- 🔍 **Retrieval-Augmented Generation (RAG)**
+- 🧠 **Multi-Agent AI Systems**
+- 🎮 **Reinforcement Learning**
+- 📚 **AI-driven Education Systems**
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="50"/>
-<br><b>LLMs & RAG</b>
-<br><sub>Fine-tuning, Prompt Engineering, Vector DBs</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
-<br><b>Multi-Agent Systems</b>
-<br><sub>Reinforcement Learning, Agent Frameworks</sub>
+<td width="50%">
+
+### 🏆 Achievements
+- **🥇 UGRF Competition**  
+  *1st Place - IoT Smart Parking System*
+  
+- **🥉 Samsung Hackathon**  
+  *3rd Place - AI Blood Donation Platform*
+
+### 💭 Philosophy
+> *"AI is not just technology — it's a new way to understand intelligence itself"*
+
+### 🎯 Mission
+*Bridging cutting-edge AI research with real-world applications*
+
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
